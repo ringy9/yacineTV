@@ -23,62 +23,74 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "dd0f88dd14411c62",
-            "max_native" : "eef6439a662ed026",
-            "max_int" : "eddf2f9b6cb263ee"
+            "max_ban" : "9008341ee8fc40ab",
+            "max_native" : "69b7e58ba73cca89",
+            "max_int" : "b385c8b7e8456afa"
         }
     ],
 
 
 
 
+
     "servers" : [
 
-        
-                       {
-            "title" : "Nigéria - Sao Tomé-et-Principe SuperSport LaLiga HD ",
-            "ico" : "https://i.postimg.cc/LXcKkRjj/Super-Sport-La-Liga-HD-1.webp",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/194358",
-            "type" : "iptv"
-        },
 
 
                        {
-            "title" : "beIN SPORTS SD1",
-            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/131",
+            "title" : "Senegal VS Algeria",
+            "ico" : "https://i.postimg.cc/1XvPJHDS/algy-VSsenigal.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/268942",
             "type" : "iptv"
         },
                {
-            "title" : "beIN SPORTS SD1",
-            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47298",
+            "title" : "Egypt VS Tunisia",
+            "ico" : "https://i.postimg.cc/VNX831XD/egyptvstunis.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1228",
             "type" : "iptv"
         },
        {
-            "title" : "beIN SPORTS SD1",
-            "ico" : "https://i.postimg.cc/hjpx4VBk/1.png",
-            "link" : "http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47298",
+            "title" : "Morocco VS Burkina Faso",
+            "ico" : "https://i.postimg.cc/zGb5FTvm/marocvsborkina.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11173",
             "type" : "iptv"
         },
                 {
-            "title" : "beIN SPORTS SD2",
-            "ico" : "https://i.postimg.cc/SRPMCqjV/2.png",
-            "link" : "http://obshd.tv:25461/@Universesat/pmFFm7nqNaNg/47299",
+            "title" : "Saudi Arabia VS  Korea Republic",
+            "ico" : "https://i.postimg.cc/dtSwC5qm/saudivskoria.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280132",
             "type" : "iptv"
         },
 
 
                       {
-            "title" : "beIN SPORTS SD6",
-            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/105",
+            "title" : "Germany VS France",
+            "ico" : "https://i.postimg.cc/G3KcLcVf/francevsgermany.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280249",
             "type" : "iptv"
         },
                               {
-            "title" : "beIN SPORTS SD6",
-            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
-            "link" : "http://new-pro.tv:8080/99622282/etbVXafU6f/154700",
+            "title" : "Spain VS Cyprus",
+            "ico" : "https://i.postimg.cc/4dZgGM5Z/spinvskobros.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/280145",
+            "type" : "iptv"
+        },
+                                      {
+            "title" : "Italy VS Ukraine",
+            "ico" : "https://i.postimg.cc/vHmGDJdZ/italyvsukrania.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/109",
+            "type" : "iptv"
+        },
+            {
+            "title" : "England VS Scotland",
+            "ico" : "https://i.postimg.cc/FHMvW1kY/englandvsiskotlanda.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/104",
+            "type" : "iptv"
+        },
+                    {
+            "title" : "Argentina VS Bolivia",
+            "ico" : "https://i.postimg.cc/RhS4786G/agentinvsbolivia.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/75641",
             "type" : "iptv"
         },
                 {
