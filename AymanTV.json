@@ -26,9 +26,9 @@
 
   "Interstitial": "admob",
   "Banner": "admob",
-  "Native": "applovin",
+  "Native": "admob",
   
-  "clicks_to_show_inter": 2,
+  "clicks_to_show_inter": 5,
   
   "is_app_suspended": false,
   "suspended_title": "A new update for this app is available.",
