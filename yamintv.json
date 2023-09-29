@@ -24,9 +24,9 @@
 
   "Ads Explanation": " applovin | admob | facebook | ironSource | unity ",
 
-  "Interstitial": "applovin",
-  "Banner": "applovin",
-  "Native": "applovin",
+  "Interstitial": "admob",
+  "Banner": "admob",
+  "Native": "admob",
   
   "clicks_to_show_inter": 5,
   
