@@ -28,7 +28,7 @@
   "Banner": "unity",
   "Native": "applovin",
   
-  "clicks_to_show_inter": 2,
+  "clicks_to_show_inter": 3,
   
   "is_app_suspended": false,
   "suspended_title": "A new update for this app is available.",
