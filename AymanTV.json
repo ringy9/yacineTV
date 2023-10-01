@@ -8,10 +8,10 @@
   "applovin_interstitial_id": "f06c1883efb27cfa",
   "applovin_native_id": "14c693a7cc7704ec",
   
-  "unity_game_id": "5416428",
+  "unity_game_id": "5432733",
   "unity_banner_id": "Banner_Android",
   "unity_interstitial_id": "Interstitial_Android",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -25,7 +25,7 @@
   "Ads Explanation": " applovin | admob | facebook | ironSource | unity ",
 
   "Interstitial": "applovin",
-  "Banner": "applovin",
+  "Banner": "unity",
   "Native": "applovin",
   
   "clicks_to_show_inter": 2,
