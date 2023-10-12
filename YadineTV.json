@@ -35,24 +35,16 @@
     "servers" : [
 
 
-        
-
-         {
-            "title" : "ARRIADIA HD",
-            "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
-            "link" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-            "type" : "iptv"
-        },
                                {
-            "title" : "AD Sport Premium 1",
-            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
-            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/835",
+            "title" : "الجزائر ضد الراس الاخضر",
+            "ico" : "https://i.postimg.cc/s2jx8QtR/aa-Recovered.png",
+            "link" : "http://xtream4.xyz:25461/hichamcobra/2G7hNIPWju/3017",
             "type" : "iptv"
         },
                {
-            "title" : "AD Sport Premium 2",
-            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
-            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/836",
+            "title" : " مصر ضد زامبيا",
+            "ico" : "https://i.postimg.cc/g0gjPcWL/gn.png",
+            "link" : "http://xtream4.xyz:25461/hichamcobra/2G7hNIPWju/2638",
             "type" : "iptv"
         },
 
