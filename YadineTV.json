@@ -34,7 +34,15 @@
 
 
     "servers" : [
- 
+
+
+        
+        {
+            "title" : "Tunisia NAT 1",
+            "ico" : "https://i.postimg.cc/WbSL2Mmx/1200px-Logo-T-l-vision-tunisienne-1-2017-svg.webp",
+            "link" : "http://xtream4.xyz:25461/majide-arabe/wfUzM9NKBq/2182",
+            "type" : "iptv"
+        },
 
        {
             "title" : "beIN SPORTS 1 SD",
