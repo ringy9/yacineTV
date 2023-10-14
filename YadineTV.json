@@ -44,6 +44,13 @@
             "type" : "iptv"
         },
 
+                               {
+            "title" : "المانيا ضد امريكا",
+            "ico" : "https://i.postimg.cc/0j1ny0KX/ssc1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/52.ts",
+            "type" : "iptv"
+        },
+
        {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/W1gkFBV6/p-1.png",
