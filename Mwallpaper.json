@@ -31,7 +31,7 @@
     "ironsource_app_key": "85460dcd",
     "ironsource_banner_placement_name": "DefaultBanner",
     "ironsource_interstitial_placement_name": "DefaultInterstitial",
-    "interstitial_ad_interval": 5
+    "interstitial_ad_interval": 3
   },
   "wallpaper": [
     {
